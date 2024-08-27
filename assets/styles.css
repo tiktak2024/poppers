@@ -1,0 +1,60 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.content
+{
+    max-width: 800px;
+    margin: 100px auto;
+    background: #f3f3f3;
+    padding: 50px;
+    border-radius: 25px;
+}
+
+.content .logo
+{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.content .logo img
+{
+    width: 1000px;
+    max-width: 50%;
+    min-width: 200px;
+}
+
+.content .desc
+{
+    font-size: 1.3rem;
+    text-align: center;
+}
+
+.content .desc p
+{
+    margin-bottom: 30px;
+}
+
+.content .desc a
+{
+    background: #1c1f62;
+    color: #FFF;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 50px;
+    margin-top: 50px;
+    transition: .3s ease-in-out;
+}
+
+
+.content .desc a:hover
+{
+    background: #0a0c45;
+}
+
+
+
+
+
+
+
